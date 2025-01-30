@@ -49,18 +49,3 @@ Found improvements? Open an issue or submit a pull request.
 
 ## License
 MIT License - Feel free to use and modify
-
-Citations:
-[1] https://www.dhiwise.com/post/how-to-write-a-readme-that-stands-out-in-best-practices
-[2] https://dev.to/curiouslychase/share-specific-lines-in-a-markdown-file-with-github-4ff0
-[3] https://stackoverflow.com/questions/70781122/referencing-files-in-a-github-markdown-file
-[4] https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
-[5] https://dev.to/danishzayan/creating-beautiful-markdown-files-in-github-5ga3
-[6] https://github.com/banesullivan/README
-[7] https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-[8] https://www.reddit.com/r/Markdown/comments/17pb8fa/how_to_publish_markdown_files_as_simple_as/
-[9] https://www.curiouslychase.com/posts/share-specific-lines-in-a-markdown-file-with-github
-[10] https://resources.github.com/github-and-rstudio/
-
----
-Answer from Perplexity: pplx.ai/share
